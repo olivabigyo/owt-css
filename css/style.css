@@ -1,16 +1,17 @@
 body {
 	background-color: #96cced;
-	background-image: url("../img/potty1.png");
+	background-image: url("../img/potty2.png");
 	background-size: 50px;
 }
 h1 {
+	background-color: #fae2c6;
 	color: #38195c;
 	text-align: center;
 	border: double red;
 
 }
 h2 {
-	background: yellow; 
+	background: #f5d25a; 
 	color: #5c2d93; 
 	text-align: center; 
 	border: 1px dashed blue;
@@ -22,12 +23,13 @@ h3 {
 	border: ridge;
 }
 h4 {
+	background-color: #6dc56f;
 	color: #9a37c9;
 	text-align: center;
 	border: 2px dotted green;
 }
 h5 {
-
+	background-color: #5ca4ed;
 	color: #aa68f9;
 	text-align: center;
 	border: solid blue;
