@@ -1,6 +1,39 @@
+body {
+	background-color: #96cced;
+}
+h1 {
+	color: #38195c;
+	text-align: center;
+	border: double red;
+
+}
 h2 {
 	background: yellow; 
-	color: blue; 
+	color: #5c2d93; 
 	text-align: center; 
-	border: 1px dashed blue;"
+	border: 1px dashed blue;
+}
+h3 {
+	background-color: #9becb7;
+	color: #6a28b9;
+	text-align: center;
+	border: ridge;
+}
+h4 {
+	color: #9a37c9;
+	text-align: center;
+	border: 2px dotted green;
+}
+h5 {
+
+	color: #aa68f9;
+	text-align: center;
+	border: solid blue;
+}
+h6 {
+	background-color: pink;
+	color: #bc52ef;
+	text-align: center;
+	border: outset red;
+
 }
