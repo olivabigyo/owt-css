@@ -7,7 +7,7 @@ h1 {
 	background-color: #fae2c6;
 	color: #38195c;
 	text-align: center;
-	border: double red;
+	border: double #38195c;
 
 }
 h2 {
@@ -40,4 +40,13 @@ h6 {
 	text-align: center;
 	border: outset red;
 
+}
+.kep-kerettel {
+	border: 2px solid black;
+}
+.macskak {
+	height: 120px;
+	background-image: url(../img/minta-cica.png);
+	background-repeat: repeat-x;
+	background-size: contain;
 }
